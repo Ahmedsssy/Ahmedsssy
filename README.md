@@ -20,7 +20,7 @@ Computer Vision Engineer | AI & Deep Learning | Edge & Real-Time Systems
        alt="Ahmed's GitHub stats" align="right" />
 </a>
 
-- 🎓 **Computer Science Student (3rd year)**
+- 🎓 **Computer Science **
 - 🤖 **Computer Vision Engineer** with hands-on experience in real-time systems
 - 🚀 Focused on **AI Deployment, Edge AI, and Production-ready ML**
 - 🧠 Interested in **AI Training, Model Evaluation, and Data-centric AI**
