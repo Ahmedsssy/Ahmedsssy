@@ -7,7 +7,7 @@ Computer Vision Engineer | AI & Deep Learning | Edge & Real-Time Systems
   <a href="https://github.com/AhmedSaadawi">
     <img src="https://komarev.com/ghpvc/?username=AhmedSaadawi" alt="profile views" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-saadawi">
+  <a href="https://www.linkedin.com/in/ahmedsadiwy?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed%20Saadawi-blue?logo=linkedin">
   </a>
   <a href="https://github.com/AhmedSaadawi?tab=followers">
